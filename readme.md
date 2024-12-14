@@ -76,5 +76,5 @@ Clusters based on `IS/CA` show variations that emphasize its significant impact 
 ## Human vs. K-Means Evaluation:
 - In this graph, K-means effectively discriminates most observations classified as "Low Risk" (purple points).
 - Black-framed points correspond primarily to "Moderate Risk" and "High Risk" categories, showing difficulty in distinguishing the "Moderate Risk" category due to limited significant data and reduced dataset richness.
-- ![Human vs. K-Means Evaluation](/imgs/human_vs_kmeans.png)
+- ![Human vs. K-Means Evaluation](/imgs/4.png)
 
